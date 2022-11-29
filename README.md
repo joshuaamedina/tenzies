@@ -15,4 +15,6 @@ The game is made using React. Features include:
 ***Die.js*** is a component that contains the function needed to create each individual die on the board. <br />
 ***App.js*** is responsible for initializing the board, executing the game, and completing/restarting the game.
 
+The game can be found at: https://tenziesjm.netlify.app/
+
 Author: Joshua Medina
